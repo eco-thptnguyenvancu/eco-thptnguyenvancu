@@ -1,3 +1,4 @@
+"use client";
 export default function ActionBoard({ actions }: { actions: string[] }) {
   return (
     <div className="mt-4 p-4 bg-white rounded shadow">
